@@ -1,0 +1,9 @@
+.vs/
+Library/
+ProjectSettings/
+Packages/
+Temp/
+learnShder.sln
+Logs/
+Assembly-CSharp.csproj
+obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
